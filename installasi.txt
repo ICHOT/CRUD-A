@@ -5,4 +5,5 @@ index.php
 ICHOT1 ganti dengan nama table dari database
 ICHOT2 ganti dengan nama field dari table
 
+
 dah gitu aja
